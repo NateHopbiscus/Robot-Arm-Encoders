@@ -1,5 +1,12 @@
 /*
-
+Code by Nate Hopper
+Requires: 
+- SCORBOT ER3 Robotic Arm
+- 4 Momentary Buttons
+- 3 DC Motor Drivers
+- 1 ATMEGA 2560
+- 1 Analog Thumb Joystick
+- 1 Schmidt Trigger Hex Inverter
 */
 #define CLW 0   //Clockwise
 #define CCW 1   //Counterclockwise
